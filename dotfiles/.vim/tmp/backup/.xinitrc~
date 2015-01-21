@@ -1,0 +1,3 @@
+xrandr -s 28
+echo "##exec awesome"
+exec /usr/bin/awesome >> ~/.cache/awesome/stdout 2>> ~/.cache/awesome/stderr

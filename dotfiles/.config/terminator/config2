@@ -1,0 +1,42 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.78
+    use_system_font = False
+    font = DejaVu Sans Mono for Powerline 10
+    background_type = transparent
+    foreground_color = "#00ff00"
+  [[Molokai]]
+    palette = "#121212:#7325FA:#23E298:#60D4DF:#D08010:#FF0087:#D0A843:#BBBBBB:#555555:#9D66F6:#5FE0B1:#6DF2FF:#FFAF00:#FF87AF:#FFCE51:#FFFFFF"
+    background_color = "#121212"
+    cursor_color = "#BBBBBB"
+    foreground_color = "#BBBBBB"
+    background_image = None
+  [[Solarized Light]]
+    palette = "#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#001e27:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc"
+    background_color = "#fcf4dc"
+    cursor_color = "#536870"
+    foreground_color = "#536870"
+    background_image = None
+  [[Solarized Dark]]
+    palette = "#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#001e27:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc"
+    background_color = "#001e27"
+    cursor_color = "#708284"
+    foreground_color = "#708284"
+    background_image = None
+  [[Monokai Soda]]
+    palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+    background_color = "#1a1a1a"    
+    cursor_color = "#f6f7ec"
+    foreground_color = "#c4c5b5"
+    background_image = None
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]

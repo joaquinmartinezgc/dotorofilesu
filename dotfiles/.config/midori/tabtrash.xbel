@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="http://stackoverflow.com/questions/14862742/invalid-argument-exception-in-socket-accept-if-i-restart-immediately-after-a-p">
+<title>‪python - Invalid argument exception in socket.accept() if I restart immediately after a previous run quit - Stack Overflow</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=5e266010f52a" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://mail.python.org/pipermail/tutor/2004-September/031937.html">
+<title>‪[Tutor] bind problem</title>
+<info>
+<metadata midori:history-step="2" midori:icon="https://mail.python.org/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=108384&amp;whichpage=80">
+<title>‪GpsPasSion Forums - [TOPIC] Xexun &quot;TK102&quot; Tracker - User Experiences</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://www.gpspassion.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.es/search?q=terminal+terminator+vs+urxt&amp;gws_rd=cr,ssl&amp;ei=sEy4VN7ZDIvkaLjlgvgB#q=stackoverflow+python+socket+custom+keepalive+signal">
+<title>‪stackoverflow python socket custom keepalive signal - Buscar con Google</title>
+<info>
+<metadata midori:history-step="2" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://stackoverflow.com/questions/5110911/python-sockets-keep-socket-alive">
+<title>‪Python sockets - keep socket alive? - Stack Overflow</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://cdn.sstatic.net/stackoverflow/img/favicon.ico?v=5e266010f52a" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://www.google.es/search?q=yowsup&amp;gws_rd=cr,ssl&amp;ei=dlK4VJO6BtHaarLLgYAE">
+<title>‪yowsup - Buscar con Google</title>
+<info>
+<metadata midori:history-step="2" midori:icon="https://www.google.es/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.emmeshop.eu/blog/?q=node/34">
+<title>‪Phidgets WhatsApp - ask the status of your sensors | EmmeShop Blog</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://www.emmeshop.eu/blog/themes/bartik/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.google.com/search?q=opencv%203">
+<title>‪WhatsApp on Raspberry Pi | EmmeShop Blog</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://www.emmeshop.eu/blog/themes/bartik/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://opencv-python-tutroals.readthedocs.org/">
+<title>‪Error - https://opencv-python-tutroals.readthedocs.org/</title>
+<info>
+<metadata midori:history-step="2" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html">
+<title>‪Getting Started with Videos — OpenCV-Python Tutorials 1 documentation</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://opencv-python-tutroals.readthedocs.org/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>

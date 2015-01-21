@@ -1,0 +1,27 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+  [[Nuevo perfil]]
+    antialias = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+  [[Nuevo diseño]]
+    [[[child0]]]
+      position = 960:19
+      type = Window
+      order = 0
+      parent = ""
+      size = 952, 1170
+    [[[terminal1]]]
+      profile = default
+      type = Terminal
+      order = 0
+      parent = child0
+[plugins]

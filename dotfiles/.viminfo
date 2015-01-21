@@ -1,0 +1,239 @@
+# Vim 7.3 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/them
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+:q
+:NeoBundleInstall
+:NeoBundleUpdate
+:wq
+:Airline
+:AirlineRefresh
+:NeoBundle 'bling/vim-airline'
+:help neobundle
+:NeoBundleInstall(!)
+:NeoBundleList
+:w
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/them
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+	if has('vim_starting')
+	  if &compatible
+	    set nocompatible               " Be iMproved
+	  endif
+	
+	  " Required:
+	  set runtimepath+=/home/debi/.vim/bundle/neobundle.vim/
+	endif
+	
+	" Required:
+	call neobundle#begin(expand('/home/debi/.vim/bundle'))
+	
+	" Let NeoBundle manage NeoBundle
+	" Required:
+	NeoBundleFetch 'Shougo/neobundle.vim'
+	
+"2	LINE	0
+	" Add or remove your Bundles here:
+	NeoBundle 'Shougo/neosnippet.vim'
+	NeoBundle 'Shougo/neosnippet-snippets'
+	NeoBundle 'tpope/vim-fugitive'
+	NeoBundle 'ctrlpvim/ctrlp.vim'
+	NeoBundle 'flazz/vim-colorschemes'
+	
+	" You can specify revision/branch/tag.
+	NeoBundle 'Shougo/vimshell', { 'rev' : '3787e5' }
+	
+	" Required:
+	call neobundle#end()
+	
+	" Required:
+	filetype plugin indent on
+	
+	" If there are uninstalled bundles found on startup,
+	" this will conveniently prompt you to install them.
+	NeoBundleCheck
+	NeoBundle 'bling/vim-airline'
+	NeoBundle 'shougo/unite.vim'
+	
+	NeoBundle 'altercation/vim-colors-solarized'
+	NeoBundle 'lokaltog/powerline'
+	
+"3	LINE	0
+	NeoBundle 'shougo/unite.vim'
+"4	LINE	0
+	exec awesome
+"-	CHAR	0
+	-
+
+# Marcas en el archivo:
+'0  1  0  ~/.vimrc
+'1  1  0  ~/.zshrc
+'2  1  9  ~/.vimrc
+'3  1  13  ~/.vimrc
+'4  1  13  ~/.vimrc
+'5  1  0  ~/.tmux.conf
+'6  8  15  ~/.zshrc
+'7  2  0  ~/.xinitrc
+'8  1  0  ~/.xinitrc
+'9  1  0  ~/option-window
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/.vimrc
+-'  1  0  ~/.zshrc
+-'  1  0  ~/.tmux.conf
+-'  130  28  ~/.tmux.conf
+-'  8  15  ~/.zshrc
+-'  2  0  ~/.xinitrc
+-'  1  0  ~/.xinitrc
+-'  1  0  ~/option-window
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/option-window
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/option-window
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+-'  379  0  ~/.config/awesome/rc.lua
+-'  377  0  ~/.config/awesome/rc.lua
+-'  195  0  ~/.config/awesome/rc.lua
+-'  1  0  ~/.config/awesome/rc.lua
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.vimrc
+	"	1	0
+	.	1	0
+	+	1	8
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	9
+	+	1	0
+	+	1	15
+	+	1	20
+	+	1	0
+
+> ~/.zshrc
+	"	1	0
+	^	8	16
+	.	8	15
+	+	8	15
+
+> ~/.vim/bundle/.neobundle/doc/neobundle.txt
+	"	45	0
+
+> ~/.tmux.conf
+	"	1	0
+	^	130	29
+	.	130	0
+	+	130	0
+
+> ~/.xinitrc
+	"	2	0
+	^	1	12
+	.	2	0
+	+	1	12
+	+	1	0
+	+	2	0
+
+> ~/option-window
+	"	1	0
+	.	908	0
+	+	908	0
+
+> ~/.config/awesome/rc.lua
+	"	379	0
+	^	379	0
+	.	378	0
+	+	378	0

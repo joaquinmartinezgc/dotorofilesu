@@ -1,0 +1,94 @@
+[global_config]
+  window_state = hidden
+  dbus = True
+  focus = mouse
+  title_transmit_fg_color = "#f92672"
+  title_inactive_fg_color = "#4a4a4a"
+  borderless = True
+  geometry_hinting = False
+  title_transmit_bg_color = "#0f0f0f"
+  title_inactive_bg_color = "#272822"
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.78
+    use_system_font = False
+    font = DejaVu Sans Mono for Powerline 10
+    background_type = transparent
+    foreground_color = "#00ff00"
+  [[Solarized Dark]]
+    palette = "#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#001e27:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc"
+    background_image = None
+    background_darkness = 0.78
+    background_type = transparent
+    use_system_font = False
+    cursor_color = "#708284"
+    foreground_color = "#708284"
+    font = DejaVu Sans Mono for Powerline 10
+    background_color = "#001e27"
+  [[Solarized Light]]
+    palette = "#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#001e27:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc"
+    background_image = None
+    background_darkness = 0.8
+    background_type = transparent
+    use_system_font = False
+    cursor_color = "#536870"
+    foreground_color = "#536870"
+    font = DejaVu Sans Mono for Powerline 10
+    background_color = "#fcf4dc"
+  [[Molokai]]
+    palette = "#121212:#7325fa:#23e298:#60d4df:#d08010:#ff0087:#d0a843:#bbbbbb:#555555:#9d66f6:#5fe0b1:#6df2ff:#ffaf00:#ff87af:#ffce51:#ffffff"
+    background_image = None
+    background_darkness = 0.75
+    background_type = transparent
+    use_system_font = False
+    cursor_color = "#BBBBBB"
+    foreground_color = "#bbbbbb"
+    font = DejaVu Sans Mono for Powerline 10
+    background_color = "#121212"
+  [[Monokai Soda]]
+    palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+    background_image = None
+    background_darkness = 0.84
+    background_type = transparent
+    use_system_font = False
+    cursor_color = "#f6f7ec"
+    foreground_color = "#c4c5b5"
+    font = DejaVu Sans Mono for Powerline 10
+    background_color = "#1a1a1a"
+[layouts]
+  [[default]]
+    [[[child0]]]
+      position = 960:609
+      type = Window
+      order = 0
+      parent = ""
+      size = 952, 585
+    [[[child1]]]
+      position = 291
+      type = VPaned
+      order = 0
+      parent = child0
+    [[[child2]]]
+      position = 577
+      type = HPaned
+      order = 0
+      parent = child1
+    [[[terminal3]]]
+      profile = Molokai
+      type = Terminal
+      order = 0
+      parent = child2
+    [[[terminal5]]]
+      profile = Monokai Soda
+      command = tmux
+      type = Terminal
+      order = 1
+      parent = child1
+    [[[terminal4]]]
+      profile = Molokai
+      type = Terminal
+      order = 1
+      parent = child2
+      command = ""
+[plugins]

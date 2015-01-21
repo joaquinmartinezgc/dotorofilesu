@@ -1,0 +1,32 @@
+from socket import socket as sckt
+import socket
+import sys
+
+socket.setdefaulttimeout(300)
+host=""
+port =5005
+socksize= 2048
+
+s= sckt(socket.AF_INET, socket.SOCK_STREAM)
+s.bind((host, port))
+print("server up")
+
+while True:
+    conx=""
+    addr=""
+    print("Listening")
+    try:
+        conx,addr = s.accept()
+    except:
+        continue
+    if conx:
+        print("nueva conex")
+        data = conx.recv(socksize)
+        if not data:
+            break
+        elif data == 'killsrv':
+            conx.close()
+            sys.exit()
+        else:
+            print(data)
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+<xbel version="1.0" xmlns:midori="http://www.twotoasts.de">
+<info>
+<metadata midori:current="1" owner="http://www.twotoasts.de"/>
+</info>
+<bookmark href="https://www.google.es/search?q=python+vs+processing&amp;gws_rd=cr,ssl&amp;ei=hsG7VMvZE4W1UeKlgeAH#q=opencv+face+recognition+raspberry+pi">
+<title>‪https://www.google.es/search?q=python+vs+processing&amp;gws_rd=cr,ssl&amp;ei=hsG7VMvZE4W1UeKlgeAH#q=opencv+face+recognition+raspberry+pi</title>
+<info>
+<metadata midori:history-step="1" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://www.raspberrypi.org/facial-recognition-opencv-on-the-camera-board/">
+<title>‪Facial recognition: OpenCV on the camera board | Raspberry Pi</title>
+<info>
+<metadata midori:history-step="2" midori:icon="text-html" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="http://milq.github.io/install-opencv-ubuntu-debian/">
+<title>‪Install OpenCV on Ubuntu or Debian - Manuel Ignacio López Quintero</title>
+<info>
+<metadata midori:history-step="2" midori:icon="http://milq.github.io/src/png/icon.png" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+<bookmark href="https://viacv.wordpress.com/2012/12/19/instalar-opencv-en-debian-6-y-no-morir-en-el-intento/">
+<title>‪Instalar OpenCV en Debian 6 y no morir en el intento | VIΛ</title>
+<info>
+<metadata midori:history-step="2" midori:icon="https://viacv.wordpress.com/favicon.ico" owner="http://www.twotoasts.de"/>
+</info>
+</bookmark>
+</xbel>
